@@ -1,3 +1,5 @@
 #excel-challenge
+
 This Peggy Tadi's Excel Challenge
-No special notes. Please be gentle in your gradings 
+
+Please note that to create the columns "Parent Category" and "Sub-Category" instead of using a formula (as specified), I went under the Data tab and used the "text to columns" option
